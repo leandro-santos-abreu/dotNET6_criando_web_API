@@ -60,3 +60,5 @@ F:\Curso_dotNet6_Criando_Uma_Web_API\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Micros
 F:\Curso_dotNet6_Criando_Uma_Web_API\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
 F:\Curso_dotNet6_Criando_Uma_Web_API\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 F:\Curso_dotNet6_Criando_Uma_Web_API\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.xml
+F:\Curso_dotNet6_Criando_Uma_Web_API\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Castle.Core.dll
+F:\Curso_dotNet6_Criando_Uma_Web_API\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll

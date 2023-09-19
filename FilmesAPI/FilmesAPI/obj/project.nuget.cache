@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PkikNLe4v47s5kaD1mpIRzjPmlQ6D4cR7iwJDjRPdbxyYq9GcM+o7pNLHSiZFeXWFCJGlAjWoaWGiGPFwYZiDw==",
+  "dgSpecHash": "x2Hpn0Ce069gE4Z1QJjY9iUfqVsY6qH0gWr93evDdSdYuSPCnYXUyMh1e44FtMQNOEIfhBoExUuQKnAYbcIhAA==",
   "success": true,
   "projectFilePath": "F:\\Curso_dotNet6_Criando_Uma_Web_API\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Outsider\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Outsider\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Outsider\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Outsider\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Outsider\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.21\\microsoft.aspnetcore.jsonpatch.6.0.21.nupkg.sha512",
     "C:\\Users\\Outsider\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.21\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.21.nupkg.sha512",
@@ -14,6 +15,7 @@
     "C:\\Users\\Outsider\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
     "C:\\Users\\Outsider\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.10\\microsoft.entityframeworkcore.analyzers.7.0.10.nupkg.sha512",
     "C:\\Users\\Outsider\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.10\\microsoft.entityframeworkcore.design.7.0.10.nupkg.sha512",
+    "C:\\Users\\Outsider\\.nuget\\packages\\microsoft.entityframeworkcore.proxies\\7.0.10\\microsoft.entityframeworkcore.proxies.7.0.10.nupkg.sha512",
     "C:\\Users\\Outsider\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.10\\microsoft.entityframeworkcore.relational.7.0.10.nupkg.sha512",
     "C:\\Users\\Outsider\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.10\\microsoft.entityframeworkcore.tools.7.0.10.nupkg.sha512",
     "C:\\Users\\Outsider\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
@@ -38,6 +40,7 @@
     "C:\\Users\\Outsider\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\Outsider\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\Outsider\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
+    "C:\\Users\\Outsider\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\Outsider\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Outsider\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Outsider\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
